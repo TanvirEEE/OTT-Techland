@@ -22,3 +22,8 @@
 .all-btn-white {
     background-color: aliceblue;
 }
+
+.star li {
+    list-style: none;
+    display: inline-block;
+}
