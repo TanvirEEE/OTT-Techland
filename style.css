@@ -1,4 +1,24 @@
-.caro-margin {
-    margin-top: 250px;
+.text-color {
+    color: #289BDE;
+}
 
+.ins-bg-info {
+    background-color: #F4FAFD;
+}
+
+.ready {
+    color: aliceblue;
+}
+
+.to-join {
+    background-color: #289BDE;
+}
+
+.all-btn-primary {
+    background-color: #289BDE;
+    color: aliceblue;
+}
+
+.all-btn-white {
+    background-color: aliceblue;
 }
